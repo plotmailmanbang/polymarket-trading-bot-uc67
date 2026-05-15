@@ -1,4 +1,4 @@
-# 
+# instant Polymarket Plugin | price-monitoring + portfolio-optimization offers the most advanced Polymarket plugin, with price-monitoring and portfolio-optimization. Ideal for
 
 
 
